@@ -14,3 +14,18 @@ Official website for Qasr-e-Zaiqa Hotel. Built with modern web technologies and 
 - Contact information and location map
 
 ## 🛠️ Project Structure
+```
+.
+├── index.html          # Main homepage
+├── about.html          # About the hotel
+├── bookings.html       # Reservation page
+├── css/                # Stylesheets
+│   └── style.css       
+├── js/                 # JavaScript files
+│   └── main.js       
+├── images/             # Hotel photos
+│   ├── exterior.jpg
+│   ├── rooms/
+│   └── amenities/
+└── README.md           # This file
+```
