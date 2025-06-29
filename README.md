@@ -1,15 +1,16 @@
-# Qasr-e-Zaiqa Website
+# Qasr-e-Zaiqa Hotel Website
 
-[![GitHub Pages](https://img.shields.io/badge/View-Live_Site-brightgreen?style=for-the-badge)](https://rehan-exe.github.io)
+[![Live Site](https://img.shields.io/badge/View-Live_Site-brightgreen?style=for-the-badge)](https://qasr-e-zaiqa.github.io)
 
-The official webhttps://github.com/Qasr-e-Zaiqa/-Qasr-e-Zaiqa.github.iosite for Qasr-e-Zaiqa. Built with modern web technologies and deployed via GitHub Pages.
+Official website for Qasr-e-Zaiqa Hotel. Built with modern web technologies and deployed via GitHub Pages.
 
 ## 🔗 Live Site
-**https://Qasr-e-Zaiqa.github.io**
+**https://qasr-e-zaiqa.github.io**
 
 ## 🚀 Features
 - Responsive design for all devices
-- Fast loading performance
-- Clean, modern user interface
+- Online reservation system
+- Photo gallery of hotel amenities
+- Contact information and location map
 
 ## 🛠️ Project Structure
