@@ -1,4 +1,4 @@
-# Qasr-e-Zaiga Website
+# Qasr-e-Zaiqa Website
 
 [![GitHub Pages](https://img.shields.io/badge/View-Live_Site-brightgreen?style=for-the-badge)](https://rehan-exe.github.io)
 
