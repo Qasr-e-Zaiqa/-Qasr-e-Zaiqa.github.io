@@ -1826,10 +1826,18 @@
 <script>
   window.addEventListener("load", () => {
     setTimeout(() => {
+      // Left side blast
       confetti({
-        particleCount: 150,
-        spread: 70,
-        origin: { y: 0.6 }
+        particleCount: 100,
+        spread: 60,
+        origin: { x: 0, y: 0.6 }
+      });
+
+      // Right side blast
+      confetti({
+        particleCount: 100,
+        spread: 60,
+        origin: { x: 1, y: 0.6 }
       });
     }, 500);
   });
